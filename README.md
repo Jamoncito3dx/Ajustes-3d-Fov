@@ -16,7 +16,7 @@ Este proyecto contiene un script de Unity llamado `CameraFOV` que permite ajusta
 ## 🚀 Cómo usar el script
 
 1. **Agregar el script al proyecto:**
-   - Copia el archivo `CameraFOV.cs` y colócalo en la carpeta `Scripts` de tu proyecto de Unity.
+   - Copia el archivo `CameraFOVAdjuster.cs` y colócalo en la carpeta `Scripts` de tu proyecto de Unity.
 
 2. **Configurar los elementos en la escena:**
    - **Cámara**: Asigna la cámara cuyo FOV deseas ajustar al campo `targetCamera`.
