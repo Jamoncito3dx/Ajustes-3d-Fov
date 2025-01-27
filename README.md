@@ -27,9 +27,12 @@ Este proyecto contiene un script de Unity llamado `CameraFOV` que permite ajusta
    - **TextMeshPro**:
      - Crea un objeto de texto usando `TextMeshPro`.
      - Asigna el texto TMP al campo `fovText`.
+     - ![image](https://github.com/user-attachments/assets/45821255-956d-4421-9a49-da006dc3e99b)
+
 
 3. **Configurar el rango del FOV:**
    - Define los valores mínimos y máximos del FOV en los campos `minFOV` y `maxFOV` en el Inspector.
+   - ![image](https://github.com/user-attachments/assets/56432d1c-8994-4968-9512-9eb68c5e2157)
 
 4. **Ejecutar el proyecto:**
    - Al iniciar el juego, el `Slider` reflejará el valor actual del FOV de la cámara.
